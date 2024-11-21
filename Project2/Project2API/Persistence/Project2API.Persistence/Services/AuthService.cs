@@ -1,0 +1,118 @@
+﻿using Azure.Core;
+using Google.Apis.Auth;
+using MediatR;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Project2API.Application.Abstractions.Services;
+using Project2API.Application.Abstractions.Token;
+using Project2API.Application.DTOs;
+using Project2API.Application.Exceptions;
+using Project2API.Application.Features.Commands.AppUser.LoginUser;
+using Project2API.Domain.Entities.Identity;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Project2API.Persistence.Services
+{
+    public class AuthService : IAuthService
+    {
+        readonly UserManager<Project2API.Domain.Entities.Identity.AppUser> _userManager;
+        readonly ITokenHandler _tokenHandler;
+        readonly IConfiguration _configuration;
+        readonly SignInManager<Project2API.Domain.Entities.Identity.AppUser> _signInManager;
+        readonly IUserService _userService;
+        public AuthService(UserManager<Project2API.Domain.Entities.Identity.AppUser> userManager, ITokenHandler tokenHandler, IConfiguration configuration, SignInManager<AppUser> signInManager, IUserService userService)
+        {
+            _userManager = userManager;
+            _tokenHandler = tokenHandler;
+            _configuration = configuration;
+            _signInManager = signInManager;
+            _userService = userService;
+        }
+        async Task<Token> CreateUserExternalAsync(AppUser user, string email, string name, UserLoginInfo info, int accessTokenLifeTime)
+        {
+            bool result = user != null;
+
+            if (user == null)
+            {
+                user = await _userManager.FindByEmailAsync(email);
+                if (user == null)
+                {
+                    user = new()
+                    {
+                        Id = Guid.NewGuid().ToString(),
+                        Email = email,
+                        UserName = email,
+                        NameSurname = name,
+                    };
+                    var identityResult = await _userManager.CreateAsync(user);
+                    result = identityResult.Succeeded;
+                }
+            }
+            if (result) { 
+                await _userManager.AddLoginAsync(user, info);              
+
+            Token token = _tokenHandler.CreateAccessToken(accessTokenLifeTime, user);
+                await _userService.UpdateRefreshToken(token.RefreshToken, user, token.Expiration, 5);
+            return token;
+            }
+            throw new Exception("Invalid external authentication");
+        }
+        public async Task<Token> GoogleLoginAsync(string idToken, int accessTokenLifeTime)
+        {
+            var settings = new GoogleJsonWebSignature.ValidationSettings()
+            {
+                Audience = new List<string> { _configuration["ExternalLoginSettings:Google:Client_ID"] }
+            };
+            var payload = await GoogleJsonWebSignature.ValidateAsync(idToken, settings);
+            var info = new UserLoginInfo("Google", payload.Subject, "Google");
+
+            Domain.Entities.Identity.AppUser user = await _userManager.FindByLoginAsync(info.LoginProvider, info.ProviderKey);
+
+
+            return await CreateUserExternalAsync(user, payload.Email, payload.Name, info, accessTokenLifeTime);
+        }
+
+        public async Task<Token> LoginAsync(string usernameOrEmail, string password, int accessTokenLifeTime)
+        {
+            Project2API.Domain.Entities.Identity.AppUser user = await _userManager.FindByNameAsync(usernameOrEmail);
+            if (user == null)
+                user = await _userManager.FindByNameAsync(usernameOrEmail);
+
+            if (user == null)
+                throw new NotFoundUserException();
+
+            SignInResult result = await _signInManager.CheckPasswordSignInAsync(user, password, false);
+            if (result.Succeeded)
+            {
+                Token token = _tokenHandler.CreateAccessToken(accessTokenLifeTime, user);
+                await _userService.UpdateRefreshToken(token.RefreshToken, user, token.Expiration, 15);
+                return token;
+
+            //return new LoginUserErrorCommandResponse()
+            //{
+            //    Message = "Kullanıcı Adı ve Şifre Hatalı !"
+            };
+            throw new AuthenticationErrorException();
+        }
+        public async Task<Token> RefreshTokenLoginAsync(string refreshToken)
+        {
+            AppUser? user = await _userManager.Users.FirstOrDefaultAsync(u => u.RefreshToken == refreshToken);
+            if (user != null && user?.RefreshTokenEndDate > DateTime.UtcNow)
+            {
+                Token token = _tokenHandler.CreateAccessToken(15,user);
+                _userService.UpdateRefreshToken(token.RefreshToken, user, token.Expiration, 300);
+
+                return token;
+            }
+            else
+            throw new NotFoundUserException();
+
+        }
+
+    }
+}

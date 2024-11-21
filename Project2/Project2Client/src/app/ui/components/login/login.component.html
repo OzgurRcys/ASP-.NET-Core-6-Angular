@@ -1,0 +1,39 @@
+<div class="row" style="padding-top: 15%;">
+
+  <div class="col-md-3"></div>
+
+  <div class="col-md-6">
+
+    <div class="lg-6" >
+      <h6 class="login_design_giris_yap">GİRİŞ YAP</h6>
+    </div>
+
+    <div class="mb-3" class="login_design_general" >
+        <label for="username" class="form-label">Kullanıcı Adı</label>
+        <input #txtUsernameOrEmail type="text" class="form-control" id="username"  placeholder="Kullanıcı Adı Giriniz" >
+        <div  class="form-text text-muted invalid-feedback">---------------</div>
+    </div>
+
+     <div class="mb-3" class="login_design_general">
+        <label for="password" class="form-label">Şifre</label>
+        <input #txtPassword type="password" class="form-control" id="password" placeholder="Şifre" >
+      </div>
+
+      <hr>
+
+      <div class="row mb-3">
+
+        <div class="col-md-9">
+          <asl-google-signin-button  type='standard' size='large' ></asl-google-signin-button>
+        </div>
+
+        <div class="col-md-3">
+          <button type="submit" class="btn btn-primary" style="background-color: limegreen; border-color: limegreen;" (click)="login(txtUsernameOrEmail.value,txtPassword.value)">Giriş Yap</button>
+        </div>
+
+      </div>
+   </div>
+
+  <div class="col-md-3"></div>
+
+</div>

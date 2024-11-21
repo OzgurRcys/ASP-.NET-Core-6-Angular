@@ -1,0 +1,102 @@
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.deps.json
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.dll
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.AssemblyReference.cache
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfoInputs.cache
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfo.cs
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CoreCompileInputs.cache
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CopyComplete
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.dll
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\refint\Project2API.SignalR.dll
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\ref\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\refint\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\ref\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\refint\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\ref\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\refint\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\ref\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\refint\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\ref\Project2API.SignalR.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.deps.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.AssemblyReference.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfoInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.AssemblyInfo.cs
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2.536316F7.Up2Date
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\refint\Project2API.SignalR.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.SignalR\obj\Debug\net6.0\ref\Project2API.SignalR.dll

@@ -1,0 +1,948 @@
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.AssemblyReference.cache
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfoInputs.cache
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfo.cs
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CoreCompileInputs.cache
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.json
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.exe
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.deps.json
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.runtimeconfig.json
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.pdb
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Humanizer.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.Project2API.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project2API.API.props
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project2API.API.props
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project2API.API.props
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\scopedcss\bundle\Project2API.API.styles.css
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CopyComplete
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.dll
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\refint\Project2API.API.dll
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.pdb
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.genruntimeconfig.cache
+C:\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\ref\Project2API.API.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.staticwebassets.runtime.json
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MySql.Data.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\ZstdNet.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.staticwebassets.runtime.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.exe
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.Project2API.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\scopedcss\bundle\Project2API.API.styles.css
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\refint\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\ref\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.staticwebassets.runtime.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.exe
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.Project2API.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\scopedcss\bundle\Project2API.API.styles.css
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\refint\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\ref\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.staticwebassets.runtime.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.exe
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.Project2API.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\scopedcss\bundle\Project2API.API.styles.css
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\refint\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\ref\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.staticwebassets.runtime.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.exe
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.Project2API.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project2API.API.props
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\scopedcss\bundle\Project2API.API.styles.css
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\refint\Project2API.API.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\ref\Project2API.API.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\refint\Project2API.API.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\appsettings.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.staticwebassets.runtime.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.exe
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.deps.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.runtimeconfig.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.API.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x64\native\sni.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win7-x86\native\sni.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.SignalR.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.AssemblyReference.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfoInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.AssemblyInfo.cs
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.csproj.CoreCompileInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.Project2API.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project2API.API.props
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project2API.API.props
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project2API.API.props
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\scopedcss\bundle\Project2API.API.styles.css
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2.DA833C2F.Up2Date
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\Project2API.API.genruntimeconfig.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Presentation\Project2API.API\obj\Debug\net6.0\ref\Project2API.API.dll

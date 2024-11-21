@@ -1,0 +1,114 @@
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.deps.json
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.dll
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.AssemblyReference.cache
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfoInputs.cache
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfo.cs
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CoreCompileInputs.cache
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CopyComplete
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.dll
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\refint\Project2API.Persistence.dll
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.pdb
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\ref\Project2API.Persistence.dll
+C:\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.runtimeconfig.json
+C:\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\refint\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\ref\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\refint\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\ref\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\refint\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\ref\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.runtimeconfig.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\refint\Project2API.Persistence.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.genruntimeconfig.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\ref\Project2API.Persistence.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.deps.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.runtimeconfig.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.AssemblyReference.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfoInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.AssemblyInfo.cs
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2.F89AD007.Up2Date
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\refint\Project2API.Persistence.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\Project2API.Persistence.genruntimeconfig.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Persistence\Project2API.Persistence\obj\Debug\net6.0\ref\Project2API.Persistence.dll

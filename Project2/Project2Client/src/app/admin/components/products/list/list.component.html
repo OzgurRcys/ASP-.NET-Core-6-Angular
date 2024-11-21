@@ -1,0 +1,53 @@
+<div class="mat-elevation-z8">
+  <table mat-table [dataSource]="dataSource">
+
+    <ng-container matColumnDef="Name">
+      <th mat-header-cell *matHeaderCellDef> Ürün Adı </th>
+      <td mat-cell *matCellDef="let element"> {{element.name}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Stock">
+      <th mat-header-cell *matHeaderCellDef> Stok Miktarı </th>
+      <td mat-cell *matCellDef="let element"> {{element.stock}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Price">
+      <th mat-header-cell *matHeaderCellDef> Ürün Fiyatı </th>
+      <td mat-cell *matCellDef="let element"> {{element.price}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="CreatedDate">
+      <th mat-header-cell *matHeaderCellDef> Oluşturma Tarihi </th>
+      <td mat-cell *matCellDef="let element"> {{element.createdDate}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="UpdatedDate">
+      <th mat-header-cell *matHeaderCellDef> Güncelleme Tarihi </th>
+      <td mat-cell *matCellDef="let element"> {{element.updatedDate}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="ImageUpload">
+      <th mat-header-cell *matHeaderCellDef width="30"> </th>
+      <td mat-cell *matCellDef="let element"> <img style="cursor: pointer;" (click)="addProductImages(element.id)" src="../../../../../assets/imageUpload.png" width="25" height="25"/> </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Edit">
+      <th mat-header-cell *matHeaderCellDef width="30"> </th>
+      <td mat-cell *matCellDef="let element"> <img style="cursor: pointer;" src="../../../../../assets/edit.png" width="25" height="25"/> </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Delete" >
+      <th mat-header-cell *matHeaderCellDef width="30"> </th>
+       <td  mat-cell *matCellDef="let element" appDelete [id]="element.id" (callback)="getProducts()" controller="products">
+         <!--<img src="../../../../../assets/delete.png" width="25" height="25" (click)="delete (element.id, $event)"/>--> </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+  <mat-paginator (page)="pageChanged()"
+                 [pageSizeOptions]="[5, 10, 20]"
+                 showFirstLastButtons>
+  </mat-paginator>
+</div>

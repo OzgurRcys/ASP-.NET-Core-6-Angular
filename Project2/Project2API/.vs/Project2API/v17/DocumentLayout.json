@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safra\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (5)\\patlamadan \u00F6nceki son halii\\Patlamadan \u00F6nceki son hali\\Project2\\Project2API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46664F81-E254-46B1-9508-8C74DAD2688F}|Presentation\\Project2API.API\\Project2API.API.csproj|c:\\users\\safra\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (5)\\patlamadan \u00F6nceki son halii\\patlamadan \u00F6nceki son hali\\project2\\project2api\\presentation\\project2api.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46664F81-E254-46B1-9508-8C74DAD2688F}|Presentation\\Project2API.API\\Project2API.API.csproj|solutionrelative:presentation\\project2api.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46664F81-E254-46B1-9508-8C74DAD2688F}|Presentation\\Project2API.API\\Project2API.API.csproj|c:\\users\\safra\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (5)\\patlamadan \u00F6nceki son halii\\patlamadan \u00F6nceki son hali\\project2\\project2api\\presentation\\project2api.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46664F81-E254-46B1-9508-8C74DAD2688F}|Presentation\\Project2API.API\\Project2API.API.csproj|solutionrelative:presentation\\project2api.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\safra\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (5)\\patlamadan \u00F6nceki son halii\\Patlamadan \u00F6nceki son hali\\Project2\\Project2API\\Presentation\\Project2API.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Project2API.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\safra\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (5)\\patlamadan \u00F6nceki son halii\\Patlamadan \u00F6nceki son hali\\Project2\\Project2API\\Presentation\\Project2API.API\\appsettings.json",
+              "RelativeToolTip": "Presentation\\Project2API.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T13:56:12.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\safra\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (5)\\patlamadan \u00F6nceki son halii\\Patlamadan \u00F6nceki son hali\\Project2\\Project2API\\Presentation\\Project2API.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Project2API.API\\Program.cs",
+              "ToolTip": "C:\\Users\\safra\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (5)\\patlamadan \u00F6nceki son halii\\Patlamadan \u00F6nceki son hali\\Project2\\Project2API\\Presentation\\Project2API.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\Project2API.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAADEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:57:41.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.deps.json
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.dll
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.AssemblyReference.cache
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfoInputs.cache
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfo.cs
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CopyComplete
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\refint\Project2API.Infrastructure.dll
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\ref\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\refint\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\ref\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\refint\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Yeni klasör (9) - Kopya - Kopya\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\ref\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\refint\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Yeni klasör (7)\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\ref\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.deps.json
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfo.cs
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CopyComplete
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\refint\Project2API.Infrastructure.dll
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\OZGURLAPTOP\Desktop\Projeler\Yeni klasör (7)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\ref\Project2API.Infrastructure.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.deps.json
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Application.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\bin\Debug\net6.0\Project2API.Domain.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.AssemblyInfo.cs
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2.BC2B3231.Up2Date
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\refint\Project2API.Infrastructure.dll
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\Project2API.Infrastructure.pdb
+C:\Users\safra\OneDrive\Masaüstü\Yeni klasör (5)\patlamadan önceki son halii\Patlamadan önceki son hali\Project2\Project2API\Infrastructure\Project2API.Infrastructure\obj\Debug\net6.0\ref\Project2API.Infrastructure.dll
